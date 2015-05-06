@@ -4,17 +4,18 @@ Tex Editor for windows using C#
 List of editor features
 - Configurable	
 - IntelliSense
+- Syntax highlighting
+- Autocompletion of LaTeX commands	
+- Parenthesis matching
 - Collapsible sections and folding
 - Document explorer
 - Spell-checking	
-- Inverse search
 - Menu for inserting symbols	
 - Multiple undo-redo	
 - Find and replace using RegEx	
+- Inverse search
 - Intelligent error handling	
-- Bibliography support
-- Autocompletion of LaTeX commands	
-- Parenthesis matching	
+- Intelligent Bibliography support
 - Unicode support	
 - RTL support	
 
