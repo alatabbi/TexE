@@ -19,4 +19,11 @@ List of editor features
 - Unicode support	
 - RTL support	
 
+Main Components:
+- AvalonEdit
+- WinFormUI 
+- HunSpell 
+- NHunspellWrapper
+
+
 
