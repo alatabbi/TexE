@@ -24,6 +24,7 @@ Main Components:
 - WinFormUI 
 - HunSpell 
 - NHunspellWrapper
+- Variaty of plugins from codeproject.com 
 
 
 
