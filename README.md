@@ -20,8 +20,8 @@ List of editor features
 - RTL support	
 
 Main Components:
-- AvalonEdit
-- WinFormUI 
+- AvalonEdit rich text editor
+- WinFormUI framework
 - HunSpell 
 - NHunspellWrapper
 - Variaty of plugins from codeproject.com 
